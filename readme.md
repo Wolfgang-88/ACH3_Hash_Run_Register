@@ -2,7 +2,7 @@
 
 ### English:
 
-Download the TagalogStudy_Setup.exe file.
+Download the ACH3_Data_Setup.exe file.
 Run the installer and follow the instructions.
 Start the program from the Start menu or desktop shortcut.
 
@@ -12,7 +12,7 @@ Note on Windows warnings: The installer is currently not code-signed, so Windows
 
 ### Deutsch:
 
-TagalogStudy_Setup.exe Datei herunterladen.
+ACH3_Data_Setup.exe Datei herunterladen.
 Den Installer ausführen und den Anweisungen folgen.
 Programm über das Startmenü oder die Desktop-Verknüpfung starten.
 
